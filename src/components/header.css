@@ -1,0 +1,17 @@
+header.header{
+    color: #FFFFFF;
+    background-color: #BC4A3A;
+    height: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0 , 0 , 0 , 0.13);
+}
+
+header.header:hover{
+    background: #BC4A3Acc ;
+    color: #FAFAFA;
+    box-shadow: none;
+}
+
+
